@@ -1,0 +1,23 @@
+{
+  "name": "discord-avatar-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that allows you to easily manage your profile avatar, banner, and bio through simple commands.",
+  "main": "src/bot.js",
+  "author": "Titan X Dev",
+  "scripts": {
+    "start": "node src/bot.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "avatar",
+    "profile",
+    "discord-bot"
+  ],
+  "author": "Titan X Dev",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.24.1",
+    "dotenv": "^16.0.0"
+  }
+}
